@@ -1,5 +1,6 @@
 ### Hi! 👋 I'm Reynald.
-This is my portofolio
+I'm Junior Frontend Dev in PT. Viapulsa GLobal Indonesi. I'm a graduate from Binar Academy's Full Stack Web, wave #27. I have experience in Frontend Developer to build Mobile App ( Android or IOS ) and some website with Javascripts, slicing components from figma design, and implementation from restful API. I have skill and accustomed to using
+React JS and React Native framework, MUI Material for UI components, Firestore storage and cloud database, React Redux toolkit for state management.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
