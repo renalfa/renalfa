@@ -1,6 +1,11 @@
 ### Hi! 👋 I'm Reynald.
-I'm Junior Frontend Dev in PT. Viapulsa GLobal Indonesi. I'm a graduate from Binar Academy's Full Stack Web, wave #27. I have experience in Frontend Developer to build Mobile App ( Android or IOS ) and some website with Javascripts, slicing components from figma design, and implementation from restful API. I have skill and accustomed to using
-React JS and React Native framework, MUI Material for UI components, Firestore storage and cloud database, React Redux toolkit for state management.
+Saya adalah seorang Frontend Developer dengan pengalaman yang kuat dalam menciptakan antarmuka pengguna yang menarik dan responsif. Saya memiliki keahlian dalam JavaScript dan TypeScript, serta pengalaman dalam mengembangkan aplikasi dengan React.js, Vue.js, dan React Native (iOS dan Android) menggunakan Expo.
+
+Saya telah bekerja dengan berbagai jenis database, termasuk MySQL, PostgreSQL, Supabase, MongoDB, dan Firebase. Kemampuan saya dalam merancang antarmuka yang estetis didukung oleh pengalaman dengan Material-UI, Tailwind CSS, dan Bootstrap.
+
+Dalam pengelolaan status aplikasi, saya telah menggunakan berbagai metode seperti Context, Zustand, dan Redux untuk menjaga konsistensi dan kejelasan dalam proyek. Saya juga ahli dalam Git dan telah berkolaborasi di platform seperti GitHub, GitLab, dan Bitbucket.
+
+Saya tidak hanya memiliki keterampilan teknis yang kuat, tetapi juga memahami kerja sama tim dengan baik, dan saya akrab dengan metodologi pengembangan seperti Scrum dan Agile serta terbiasa bekerja dengan tenggat waktu. Saya bersemangat untuk terus belajar dan mengembangkan kemampuan saya dalam pengembangan website dan juga mobile apps.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
