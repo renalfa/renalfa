@@ -11,6 +11,7 @@ Saya tidak hanya memiliki keterampilan teknis yang kuat, tetapi juga memahami ke
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
 [![Vue][Vue.js]][Vue-url]
+[![Node][Node.js]][Node-url]
   
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
@@ -19,3 +20,5 @@ Saya tidak hanya memiliki keterampilan teknis yang kuat, tetapi juga memahami ke
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
+[Node.js]: https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs
+[Node-url]: https://nodejs.org/
