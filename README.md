@@ -1,13 +1,36 @@
-### Hi! 👋 I'm Reynald.
-Saya adalah seorang Frontend Developer dengan pengalaman yang kuat dalam menciptakan antarmuka pengguna yang menarik dan responsif. Saya memiliki keahlian dalam JavaScript dan TypeScript, serta pengalaman dalam mengembangkan aplikasi dengan React.js, Vue.js, Next.js dan React Native (iOS dan Android) menggunakan Expo.
 
-Saya telah bekerja dengan berbagai jenis database, termasuk MySQL, PostgreSQL, Supabase, MongoDB, dan Firebase. Kemampuan saya dalam merancang antarmuka yang estetis didukung oleh pengalaman dengan Material-UI, Tailwind CSS, dan Bootstrap.
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hello+There+%F0%9F%91%8B!;%F0%9F%A4%96+I+am+Reynald+%F0%9F%A4%96" alt="Typing SVG" /></a>
+</h1>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Im%20Frontend%20Developer%20;Mobile%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-Dalam pengelolaan status aplikasi, saya telah menggunakan berbagai metode seperti Context, Zustand, dan Redux untuk menjaga konsistensi dan kejelasan dalam proyek. Saya juga ahli dalam Git dan telah berkolaborasi di platform seperti GitHub, GitLab, dan Bitbucket.
+Fast learner, adaptive, creative and professional person. Having experience on building and developing web and mobile apps with attractive and responsive user interfaces. Experienced UI Developer using various Javascripts framework and library such as React, React Native, Next, and Vue, with combination Material UI, Tailwind CSS, Bootstrap, and Bulma. Able to use some database and storage such as Firebase, Supabase, Strapi, MongoDB, and PostgresQL. Also an able in Git and has collaborated on platforms such as GitHub, GitLab, and Bitbucket. Not only have strong technical skills, but also understand teamwork well, and I am familiar with development methodologies such as Scrum and Agile and used to working with deadlines.
 
-Saya tidak hanya memiliki keterampilan teknis yang kuat, tetapi juga memahami kerja sama tim dengan baik, dan saya akrab dengan metodologi pengembangan seperti Scrum dan Agile serta terbiasa bekerja dengan tenggat waktu. Saya bersemangat untuk terus belajar dan mengembangkan kemampuan saya dalam pengembangan website dan juga mobile apps.
+ <h2>:trophy: My Github Stats and Activity</h2>
 
-### Bahasa Pemrograman
+  <h3 align="center">🔥 Streak Stats</h3>
+  <div align="center">
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rnlfzi's streak" src="https://streak-stats.demolab.com/?user=rnlfzi&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+  </div>
+  
+  <h3 align="center">💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rnlfzi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rnlfzi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rnlfzi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+</div>
+
+### My Language
 [![JS][JS]][JS-url]
 [![TS][TS]][TS-url]
 
@@ -32,7 +55,7 @@ Saya tidak hanya memiliki keterampilan teknis yang kuat, tetapi juga memahami ke
 [![Supabase][Supabase]][Supabase-url]
 
 
-### Hubungi saya
+### Touch me
 [![Linkedin][Linkedin]][Linkedin-url]
 [![Instagram][Instagram]][Ig-url]
   
