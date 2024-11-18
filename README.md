@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Im%20Frontend%20Developer%20;Mobile%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-Fast learner, adaptive, creative and professional person. Having experience on building and developing web and mobile apps with attractive and responsive user interfaces. Experienced UI Developer using various Javascripts framework and library such as React, React Native, Next, and Vue, with combination Material UI, Tailwind CSS, Bootstrap, and Bulma. Able to use some database and storage such as Firebase, Supabase, Strapi, MongoDB, and PostgresQL. Also an able in Git and has collaborated on platforms such as GitHub, GitLab, and Bitbucket. Not only have strong technical skills, but also understand teamwork well, and I am familiar with development methodologies such as Scrum and Agile and used to working with deadlines.
+I’m Frontend Developer with 1.5 years of experience in web and mobile app development. Proficient in Javascript and Typescript, with expertise in React.js, React Native (Expo), and Next.js. Skilled in styling with Material UI, Tailwind CSS, and Bootstrap. Experienced in working with Firebase, Supabase, MongoDB, and PostgreSQL. Strong Git skills, with collaboration experience on GitHub, GitLab, and Bitbucket. Familiar with Agile and Scrum methodologies, and accustomed to working under deadlines.
 
  <h2>:trophy: My Github Stats and Activity</h2>
 
